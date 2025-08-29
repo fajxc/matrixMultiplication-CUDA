@@ -24,3 +24,4 @@ GPUs crush large matrix multiplies because thousands of threads work in parallel
 
 Memory transfers between CPU and GPU matter, but once the problem is large enough the GPU dominates.
 
+<img width="642" height="549" alt="image" src="https://github.com/user-attachments/assets/999c78aa-8d01-4a22-a8bc-2be9bdda2fb9" />
